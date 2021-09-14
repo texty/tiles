@@ -40,7 +40,11 @@
     {
       "id": "background",
       "type": "background",
-      "paint": {"background-color": "rgb(242,243,240)"}
+      "paint": {
+        "background-color": "rgb(242,243,240)",
+        "background-opacity": 0
+
+      }
     },
     {
       "id": "city",
