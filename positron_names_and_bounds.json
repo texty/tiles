@@ -40,8 +40,12 @@
     {
       "id": "background",
       "type": "background",
-      "layout": {"visibility": "none"},
-      "paint": {"background-color": "rgb(242,243,240)"}
+      "layout": {"visibility": "background"},
+      "paint": {
+        "background-color": "rgb(242,243,240)",
+        "background-opacity": 0
+
+      }
     },
     {
       "id": "park",
