@@ -28,6 +28,7 @@
     "cities": {
       "type": "vector",
       "tiles": ["https://texty.github.io/tiles/cities/{z}/{x}/{y}.pbf"],
+      "layout": {"visibility": "none"},
       "minZoom": 0,
       "maxZoom": 14,
       "minzoom": 4,
