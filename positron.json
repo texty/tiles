@@ -41,7 +41,7 @@
     {
       "id": "background",
       "type": "background",
-      "layout": {"visibility": "none"},
+      "layout": {"visibility": "visible"},
       "paint": {
         "background-color": "rgb(242,243,240)",
         "background-opacity": 0
