@@ -1119,7 +1119,7 @@
       "source": "cities",
       "source-layer": "cities_4326",
       "layout": {"visibility": "visible"},
-      "paint": {"line-color": "rgba(9, 9, 9, 1)", "line-opacity": 0.1}
+      "paint": {"line-color": "rgba(9, 9, 9, 1)", "line-opacity": 1}
     }
   ],
   "id": "positron"

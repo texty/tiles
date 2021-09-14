@@ -28,7 +28,6 @@
     "cities": {
       "type": "vector",
       "tiles": ["https://texty.github.io/tiles/cities/{z}/{x}/{y}.pbf"],
-      "layout": {"visibility": "none"},
       "minZoom": 0,
       "maxZoom": 14,
       "minzoom": 4,
@@ -41,10 +40,9 @@
     {
       "id": "background",
       "type": "background",
-      "layout": {"visibility": "none"},
+      "layout": {"visibility": "visible"},
       "paint": {
-        "background-color": "rgb(242,243,240)",
-        "background-opacity": 0
+        "background-color": "rgb(242,243,240)"
       }
     },
     {
@@ -52,6 +50,7 @@
       "type": "line",
       "source": "cities",
       "source-layer": "cities_4326",
+      "layout": {"visibility": "none"},
       "paint": {"line-color": "rgba(9, 9, 9, 1)"}
     },
     {
