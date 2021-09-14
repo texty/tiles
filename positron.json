@@ -42,7 +42,6 @@
       "type": "background",
       "paint": {
         "background-color": "rgb(242,243,240)",
-        "background-opacity": 1
 
       }
     },
