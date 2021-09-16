@@ -28,9 +28,9 @@
     "cities": {
       "type": "vector",
       "tiles": ["https://texty.github.io/tiles/cities/{z}/{x}/{y}.pbf"],
-      "minZoom": 0,
+      "minZoom": 9,
       "maxZoom": 14,
-      "minzoom": 4,
+      "minzoom": 9,
       "maxzoom": 12
     }
   },
@@ -1119,7 +1119,7 @@
       "source": "cities",
       "source-layer": "cities_4326",
       "layout": {"visibility": "visible"},
-      "paint": {"line-color": "rgba(9, 9, 9, 1)", "line-opacity": 1}
+      "paint": {"line-color": "#FFB29E", "line-opacity": 1, "line-width": 1}
     }
   ],
   "id": "positron"
