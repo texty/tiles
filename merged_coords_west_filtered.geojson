@@ -100,25 +100,6 @@
       "type": "Feature",
       "properties": {
         "river_name": "Тиса",
-        "river_id": 44013,
-        "post_name": "Тячів",
-        "form_post_id": "Закарпатська",
-        "height": 208.26,
-        "lattitude": 48.00509262085,
-        "longitude": 23.575941085815
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          23.575941085815,
-          48.00509262085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "river_name": "Тиса",
         "river_id": 44015,
         "post_name": "Хуст",
         "form_post_id": "Закарпатська",
