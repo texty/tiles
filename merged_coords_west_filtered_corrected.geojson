@@ -1,1 +1,1385 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "properties": {"river_name": "Прут", "river_id": 42136, "post_name": "Татарів", "form_post_id": "Iв.Франкiвська", "height": 622.55, "lattitude": 48.368766784668, "longitude": 24.551666259766, "corrected_height": 622.55}, "geometry": {"type": "Point", "coordinates": [24.551666259766, 48.368766784668]}}, {"type": "Feature", "properties": {"river_name": "Прут", "river_id": 42137, "post_name": "Яремче", "form_post_id": "Iв.Франкiвська", "height": 501.33, "lattitude": 48.441356658936, "longitude": 24.545970916748, "corrected_height": 491.33}, "geometry": {"type": "Point", "coordinates": [24.545970916748, 48.441356658936]}}, {"type": "Feature", "properties": {"river_name": "Білий Черемош", "river_id": 42194, "post_name": "Яблуниця", "form_post_id": "Iв.Франкiвська", "height": 593.12, "lattitude": 48.015090942383, "longitude": 24.912660598755, "corrected_height": NaN}, "geometry": {"type": "Point", "coordinates": [24.912660598755, 48.015090942383]}}, {"type": "Feature", "properties": {"river_name": "Чорний Черемош", "river_id": 42198, "post_name": "Верховина", "form_post_id": "Iв.Франкiвська", "height": 593.35, "lattitude": 48.154273986816, "longitude": 24.850582122803, "corrected_height": 578.35}, "geometry": {"type": "Point", "coordinates": [24.850582122803, 48.154273986816]}}, {"type": "Feature", "properties": {"river_name": "Тиса", "river_id": 44006, "post_name": "Рахів", "form_post_id": "Закарпатська", "height": 430.94, "lattitude": 48.05350112915, "longitude": 24.205207824707, "corrected_height": 420.94}, "geometry": {"type": "Point", "coordinates": [24.205207824707, 48.05350112915]}}, {"type": "Feature", "properties": {"river_name": "Тиса", "river_id": 44015, "post_name": "Хуст", "form_post_id": "Закарпатська", "height": 155.52, "lattitude": 48.175643920898, "longitude": 23.255926132202, "corrected_height": 151.52}, "geometry": {"type": "Point", "coordinates": [23.255926132202, 48.175643920898]}}, {"type": "Feature", "properties": {"river_name": "Тиса", "river_id": 44019, "post_name": "Вилок", "form_post_id": "Закарпатська", "height": 112.39, "lattitude": 48.096782684326, "longitude": 22.83738899231, "corrected_height": 108.39}, "geometry": {"type": "Point", "coordinates": [22.83738899231, 48.096782684326]}}, {"type": "Feature", "properties": {"river_name": "Тиса", "river_id": 44023, "post_name": "Чоп", "form_post_id": "Закарпатська", "height": 95.49, "lattitude": 48.415710449219, "longitude": 22.184677124023, "corrected_height": 95.49}, "geometry": {"type": "Point", "coordinates": [22.184677124023, 48.415710449219]}}, {"type": "Feature", "properties": {"river_name": "Чорна Тиса", "river_id": 44025, "post_name": "Ясіня", "form_post_id": "Закарпатська", "height": 647.4, "lattitude": 48.272899627686, "longitude": 24.358846664429, "corrected_height": 632.4}, "geometry": {"type": "Point", "coordinates": [24.358846664429, 48.272899627686]}}, {"type": "Feature", "properties": {"river_name": "Біла Тиса", "river_id": 44028, "post_name": "Луги", "form_post_id": "Закарпатська", "height": 601.81, "lattitude": 48.058490753174, "longitude": 24.414909362793, "corrected_height": 586.81}, "geometry": {"type": "Point", "coordinates": [24.414909362793, 48.058490753174]}}, {"type": "Feature", "properties": {"river_name": "Тересва", "river_id": 44034, "post_name": "Усть-Чорна", "form_post_id": "Закарпатська", "height": 523.78, "lattitude": 48.330478668213, "longitude": 23.928215026855, "corrected_height": 508.78}, "geometry": {"type": "Point", "coordinates": [23.928215026855, 48.330478668213]}}, {"type": "Feature", "properties": {"river_name": "Тересва", "river_id": 44036, "post_name": "Нересниця", "form_post_id": "Закарпатська", "height": 297.4, "lattitude": 48.114669799805, "longitude": 23.769826889038, "corrected_height": 282.4}, "geometry": {"type": "Point", "coordinates": [23.769826889038, 48.114669799805]}}, {"type": "Feature", "properties": {"river_name": "Мокрянка", "river_id": 44038, "post_name": "Руська Мокра", "form_post_id": "Закарпатська", "height": 549.27, "lattitude": 48.346111297607, "longitude": 23.906429290771, "corrected_height": 534.27}, "geometry": {"type": "Point", "coordinates": [23.906429290771, 48.346111297607]}}, {"type": "Feature", "properties": {"river_name": "Теребля", "river_id": 44046, "post_name": "Колочава", "form_post_id": "Закарпатська", "height": 525.1, "lattitude": 48.405570983887, "longitude": 23.676906585693, "corrected_height": 515.1}, "geometry": {"type": "Point", "coordinates": [23.676906585693, 48.405570983887]}}, {"type": "Feature", "properties": {"river_name": "Ріка", "river_id": 44051, "post_name": "Міжгір'я", "form_post_id": "Закарпатська", "height": 434.65, "lattitude": 48.539665222168, "longitude": 23.494861602783, "corrected_height": 424.65}, "geometry": {"type": "Point", "coordinates": [23.494861602783, 48.539665222168]}}, {"type": "Feature", "properties": {"river_name": "Ріка", "river_id": 44053, "post_name": "Нижній Бистрий", "form_post_id": "Закарпатська", "height": 283.48, "lattitude": 48.35147857666, "longitude": 23.546983718872, "corrected_height": 279.48}, "geometry": {"type": "Point", "coordinates": [23.546983718872, 48.35147857666]}}, {"type": "Feature", "properties": {"river_name": "Ріка", "river_id": 44054, "post_name": "Хуст", "form_post_id": "Закарпатська", "height": 158.51, "lattitude": 48.18000793457, "longitude": 23.268699645996, "corrected_height": 154.51}, "geometry": {"type": "Point", "coordinates": [23.268699645996, 48.18000793457]}}, {"type": "Feature", "properties": {"river_name": "Боржава", "river_id": 44079, "post_name": "Довге", "form_post_id": "Закарпатська", "height": 169.39, "lattitude": 48.366996765137, "longitude": 23.285913467407, "corrected_height": 165.39}, "geometry": {"type": "Point", "coordinates": [23.285913467407, 48.366996765137]}}, {"type": "Feature", "properties": {"river_name": "Боржава", "river_id": 44080, "post_name": "Верхні Ремети", "form_post_id": "Закарпатська", "height": 115.45, "lattitude": 48.25910949707, "longitude": 22.873512268066, "corrected_height": 108.45}, "geometry": {"type": "Point", "coordinates": [22.873512268066, 48.25910949707]}}, {"type": "Feature", "properties": {"river_name": "Іршава", "river_id": 44083, "post_name": "Іршава", "form_post_id": "Закарпатська", "height": 133.94, "lattitude": 48.312480926514, "longitude": 23.039052963257, "corrected_height": 125.94}, "geometry": {"type": "Point", "coordinates": [23.039052963257, 48.312480926514]}}, {"type": "Feature", "properties": {"river_name": "Латориця", "river_id": 44085, "post_name": "Підполоззя", "form_post_id": "Закарпатська", "height": 357.15, "lattitude": 48.743194580078, "longitude": 23.021068572998, "corrected_height": 342.15}, "geometry": {"type": "Point", "coordinates": [23.021068572998, 48.743194580078]}}, {"type": "Feature", "properties": {"river_name": "Латориця", "river_id": 44087, "post_name": "Свалява", "form_post_id": "Закарпатська", "height": 189.3, "lattitude": 48.553161621094, "longitude": 22.980176925659, "corrected_height": 180.3}, "geometry": {"type": "Point", "coordinates": [22.980176925659, 48.553161621094]}}, {"type": "Feature", "properties": {"river_name": "Латориця", "river_id": 44090, "post_name": "Мукачеве", "form_post_id": "Закарпатська", "height": 117.62, "lattitude": 48.448696136475, "longitude": 22.724086761475, "corrected_height": 114.62}, "geometry": {"type": "Point", "coordinates": [22.724086761475, 48.448696136475]}}, {"type": "Feature", "properties": {"river_name": "Латориця", "river_id": 44093, "post_name": "Чоп", "form_post_id": "Закарпатська", "height": 98.11, "lattitude": 48.454006195068, "longitude": 22.211442947388, "corrected_height": 98.11}, "geometry": {"type": "Point", "coordinates": [22.211442947388, 48.454006195068]}}, {"type": "Feature", "properties": {"river_name": "Стара", "river_id": 44100, "post_name": "Зняцьово", "form_post_id": "Закарпатська", "height": 105.94, "lattitude": 48.491374969482, "longitude": 22.517751693726, "corrected_height": 105.94}, "geometry": {"type": "Point", "coordinates": [22.517751693726, 48.491374969482]}}, {"type": "Feature", "properties": {"river_name": "Уж (Закарпатський)", "river_id": 44108, "post_name": "Жорнава", "form_post_id": "Закарпатська", "height": 328.3, "lattitude": 48.989475250244, "longitude": 22.629404067993, "corrected_height": 318.3}, "geometry": {"type": "Point", "coordinates": [22.629404067993, 48.989475250244]}}, {"type": "Feature", "properties": {"river_name": "Уж (Закарпатський)", "river_id": 44110, "post_name": "В.Березний", "form_post_id": "Закарпатська", "height": 198.19, "lattitude": 48.890933990479, "longitude": 22.461170196533, "corrected_height": 188.19}, "geometry": {"type": "Point", "coordinates": [22.461170196533, 48.890933990479]}}, {"type": "Feature", "properties": {"river_name": "Уж (Закарпатський)", "river_id": 44113, "post_name": "Зарічово", "form_post_id": "Закарпатська", "height": 154.89, "lattitude": 48.77042388916, "longitude": 22.499231338501, "corrected_height": 150.89}, "geometry": {"type": "Point", "coordinates": [22.499231338501, 48.77042388916]}}, {"type": "Feature", "properties": {"river_name": "Уж (Закарпатський)", "river_id": 44116, "post_name": "Ужгород", "form_post_id": "Закарпатська", "height": 110.48, "lattitude": 48.622001647949, "longitude": 22.298322677612, "corrected_height": 110.48}, "geometry": {"type": "Point", "coordinates": [22.298322677612, 48.622001647949]}}, {"type": "Feature", "properties": {"river_name": "Лютянка", "river_id": 44120, "post_name": "Чорноголова", "form_post_id": "Закарпатська", "height": 255.01, "lattitude": 48.858741760254, "longitude": 22.605291366577, "corrected_height": 245.01}, "geometry": {"type": "Point", "coordinates": [22.605291366577, 48.858741760254]}}, {"type": "Feature", "properties": {"river_name": "Тур'я", "river_id": 44121, "post_name": "Тур'я Поляна", "form_post_id": "Закарпатська", "height": 279.59, "lattitude": 48.698692321777, "longitude": 22.799547195435, "corrected_height": 264.59}, "geometry": {"type": "Point", "coordinates": [22.799547195435, 48.698692321777]}}, {"type": "Feature", "properties": {"river_name": "Тур'я", "river_id": 44124, "post_name": "Сімер", "form_post_id": "Закарпатська", "height": 151.16, "lattitude": 48.73413848877, "longitude": 22.514717102051, "corrected_height": 147.16}, "geometry": {"type": "Point", "coordinates": [22.514717102051, 48.73413848877]}}, {"type": "Feature", "properties": {"river_name": "Західний  Буг", "river_id": 79723, "post_name": "Сасів", "form_post_id": "Львiвська", "height": 261.09, "lattitude": 49.878479003906, "longitude": 24.945743560791, "corrected_height": 254.08999999999997}, "geometry": {"type": "Point", "coordinates": [24.945743560791, 49.878479003906]}}, {"type": "Feature", "properties": {"river_name": "Полтва", "river_id": 79747, "post_name": "Буськ", "form_post_id": "Львiвська", "height": 209.99, "lattitude": 49.964721679688, "longitude": 24.607500076294, "corrected_height": 209.99}, "geometry": {"type": "Point", "coordinates": [24.607500076294, 49.964721679688]}}, {"type": "Feature", "properties": {"river_name": "Дністер", "river_id": 81015, "post_name": "Стрілки", "form_post_id": "Львiвська", "height": 406.03, "lattitude": 49.32873916626, "longitude": 22.978202819824, "corrected_height": 406.03}, "geometry": {"type": "Point", "coordinates": [22.978202819824, 49.32873916626]}}, {"type": "Feature", "properties": {"river_name": "Дністер", "river_id": 81017, "post_name": "Самбір", "form_post_id": "Львiвська", "height": 285.94, "lattitude": 49.505867004395, "longitude": 23.221120834351, "corrected_height": 281.94}, "geometry": {"type": "Point", "coordinates": [23.221120834351, 49.505867004395]}}, {"type": "Feature", "properties": {"river_name": "Дністер", "river_id": 81028, "post_name": "Роздол", "form_post_id": "Львiвська", "height": 244.48, "lattitude": 49.438682556152, "longitude": 24.069944381714, "corrected_height": 244.48}, "geometry": {"type": "Point", "coordinates": [24.069944381714, 49.438682556152]}}, {"type": "Feature", "properties": {"river_name": "Дністер", "river_id": 81030, "post_name": "Журавне", "form_post_id": "Львiвська", "height": 234.98, "lattitude": 49.258693695068, "longitude": 24.292366027832, "corrected_height": 234.98}, "geometry": {"type": "Point", "coordinates": [24.292366027832, 49.258693695068]}}, {"type": "Feature", "properties": {"river_name": "Дністер", "river_id": 81033, "post_name": "Галич", "form_post_id": "Iв.Франкiвська", "height": 212.54, "lattitude": 49.126277923584, "longitude": 24.73020362854, "corrected_height": 212.54}, "geometry": {"type": "Point", "coordinates": [24.73020362854, 49.126277923584]}}, {"type": "Feature", "properties": {"river_name": "Стрв'яж", "river_id": 81078, "post_name": "Хирів", "form_post_id": "Львiвська", "height": 347.15, "lattitude": 49.523826599121, "longitude": 22.811220169067, "corrected_height": 337.15}, "geometry": {"type": "Point", "coordinates": [22.811220169067, 49.523826599121]}}, {"type": "Feature", "properties": {"river_name": "Стрв'яж", "river_id": 81080, "post_name": "Луки", "form_post_id": "Львiвська", "height": 265.93, "lattitude": 49.611694335938, "longitude": 23.389938354492, "corrected_height": 261.93}, "geometry": {"type": "Point", "coordinates": [23.389938354492, 49.611694335938]}}, {"type": "Feature", "properties": {"river_name": "Верещиця", "river_id": 81085, "post_name": "Комарно", "form_post_id": "Львiвська", "height": 258.72, "lattitude": 49.622978210449, "longitude": 23.710275650024, "corrected_height": 254.72000000000003}, "geometry": {"type": "Point", "coordinates": [23.710275650024, 49.622978210449]}}, {"type": "Feature", "properties": {"river_name": "Бистриця", "river_id": 81087, "post_name": "Озимина", "form_post_id": "Львiвська", "height": 276.62, "lattitude": 49.464298248291, "longitude": 23.38952255249, "corrected_height": 276.62}, "geometry": {"type": "Point", "coordinates": [23.38952255249, 49.464298248291]}}, {"type": "Feature", "properties": {"river_name": "Тисмениця", "river_id": 81092, "post_name": "Дрогобич", "form_post_id": "Львiвська", "height": 269.42, "lattitude": 49.362331390381, "longitude": 23.574787139893, "corrected_height": 267.42}, "geometry": {"type": "Point", "coordinates": [23.574787139893, 49.362331390381]}}, {"type": "Feature", "properties": {"river_name": "Щирець", "river_id": 81097, "post_name": "Щирець", "form_post_id": "Львiвська", "height": 260.15, "lattitude": 49.645908355713, "longitude": 23.860555648804, "corrected_height": 260.15}, "geometry": {"type": "Point", "coordinates": [23.860555648804, 49.645908355713]}}, {"type": "Feature", "properties": {"river_name": "Стрий", "river_id": 81102, "post_name": "Матків", "form_post_id": "Львiвська", "height": 657.87, "lattitude": 48.912540435791, "longitude": 23.127935409546, "corrected_height": 647.87}, "geometry": {"type": "Point", "coordinates": [23.127935409546, 48.912540435791]}}, {"type": "Feature", "properties": {"river_name": "Стрий", "river_id": 81103, "post_name": "Завадівка", "form_post_id": "Львiвська", "height": 551.42, "lattitude": 49.142124176025, "longitude": 23.065517425537, "corrected_height": 551.42}, "geometry": {"type": "Point", "coordinates": [23.065517425537, 49.142124176025]}}, {"type": "Feature", "properties": {"river_name": "Стрий", "river_id": 81108, "post_name": "В.Синьовидне", "form_post_id": "Львiвська", "height": 370.57, "lattitude": 49.107921600342, "longitude": 23.606647491455, "corrected_height": 364.57}, "geometry": {"type": "Point", "coordinates": [23.606647491455, 49.107921600342]}}, {"type": "Feature", "properties": {"river_name": "Стрий", "river_id": 81109, "post_name": "Стрий", "form_post_id": "Львiвська", "height": 293.05, "lattitude": 49.24193572998, "longitude": 23.856149673462, "corrected_height": 289.05}, "geometry": {"type": "Point", "coordinates": [23.856149673462, 49.24193572998]}}, {"type": "Feature", "properties": {"river_name": "Яблунька", "river_id": 81113, "post_name": "Турка", "form_post_id": "Львiвська", "height": 550.11, "lattitude": 49.155254364014, "longitude": 23.042497634888, "corrected_height": 540.11}, "geometry": {"type": "Point", "coordinates": [23.042497634888, 49.155254364014]}}, {"type": "Feature", "properties": {"river_name": "Опір", "river_id": 81120, "post_name": "Сколе", "form_post_id": "Львiвська", "height": 444.81, "lattitude": 49.016956329346, "longitude": 23.476940155029, "corrected_height": 444.81}, "geometry": {"type": "Point", "coordinates": [23.476940155029, 49.016956329346]}}, {"type": "Feature", "properties": {"river_name": "Славська", "river_id": 81122, "post_name": "Славське", "form_post_id": "Львiвська", "height": 593.51, "lattitude": 48.835243225098, "longitude": 23.447086334229, "corrected_height": 578.51}, "geometry": {"type": "Point", "coordinates": [23.447086334229, 48.835243225098]}}, {"type": "Feature", "properties": {"river_name": "Орава", "river_id": 81129, "post_name": "Святослав", "form_post_id": "Львiвська", "height": 476.48, "lattitude": 49.005004882812, "longitude": 23.453330993652, "corrected_height": 461.48}, "geometry": {"type": "Point", "coordinates": [23.453330993652, 49.005004882812]}}, {"type": "Feature", "properties": {"river_name": "Свіча", "river_id": 81147, "post_name": "Зарічне", "form_post_id": "Львiвська", "height": 279.1, "lattitude": 49.17094039917, "longitude": 24.086601257324, "corrected_height": 274.1}, "geometry": {"type": "Point", "coordinates": [24.086601257324, 49.17094039917]}}, {"type": "Feature", "properties": {"river_name": "Лужанка", "river_id": 81151, "post_name": "Гошів", "form_post_id": "Iв.Франкiвська", "height": 375.89, "lattitude": 49.028240203857, "longitude": 23.884296417236, "corrected_height": 360.89}, "geometry": {"type": "Point", "coordinates": [23.884296417236, 49.028240203857]}}, {"type": "Feature", "properties": {"river_name": "Сукіль", "river_id": 81152, "post_name": "Тисів", "form_post_id": "Iв.Франкiвська", "height": 421.69, "lattitude": 49.051887512207, "longitude": 23.767610549927, "corrected_height": 406.69}, "geometry": {"type": "Point", "coordinates": [23.767610549927, 49.051887512207]}}, {"type": "Feature", "properties": {"river_name": "Свіж", "river_id": 81156, "post_name": "Букачівці", "form_post_id": "Iв.Франкiвська", "height": 226.87, "lattitude": 49.249866485596, "longitude": 24.495204925537, "corrected_height": 226.87}, "geometry": {"type": "Point", "coordinates": [24.495204925537, 49.249866485596]}}, {"type": "Feature", "properties": {"river_name": "Лімниця", "river_id": 81161, "post_name": "Осмолода", "form_post_id": "Iв.Франкiвська", "height": 712.82, "lattitude": 48.644260406494, "longitude": 24.018451690674, "corrected_height": 697.82}, "geometry": {"type": "Point", "coordinates": [24.018451690674, 48.644260406494]}}, {"type": "Feature", "properties": {"river_name": "Лімниця", "river_id": 81169, "post_name": "Перевозець", "form_post_id": "Iв.Франкiвська", "height": 239.27, "lattitude": 49.078639984131, "longitude": 24.552389144897, "corrected_height": 234.27}, "geometry": {"type": "Point", "coordinates": [24.552389144897, 49.078639984131]}}, {"type": "Feature", "properties": {"river_name": "Чечва", "river_id": 81172, "post_name": "Спас", "form_post_id": "Iв.Франкiвська", "height": 421.57, "lattitude": 48.882221221924, "longitude": 24.067249298096, "corrected_height": 406.57}, "geometry": {"type": "Point", "coordinates": [24.067249298096, 48.882221221924]}}, {"type": "Feature", "properties": {"river_name": "Гнила Липа", "river_id": 81184, "post_name": "Більшівці", "form_post_id": "Iв.Франкiвська", "height": 217.3, "lattitude": 49.181243896484, "longitude": 24.73543548584, "corrected_height": 217.3}, "geometry": {"type": "Point", "coordinates": [24.73543548584, 49.181243896484]}}, {"type": "Feature", "properties": {"river_name": "Бистриця Надвірнянська", "river_id": 81191, "post_name": "Пасічна", "form_post_id": "Iв.Франкiвська", "height": 532.88, "lattitude": 48.571624755859, "longitude": 24.410152435303, "corrected_height": 522.88}, "geometry": {"type": "Point", "coordinates": [24.410152435303, 48.571624755859]}}, {"type": "Feature", "properties": {"river_name": "Ворона", "river_id": 81197, "post_name": "Тисмениця", "form_post_id": "Iв.Франкiвська", "height": 240.77, "lattitude": 48.901515960693, "longitude": 24.851873397827, "corrected_height": 240.77}, "geometry": {"type": "Point", "coordinates": [24.851873397827, 48.901515960693]}}, {"type": "Feature", "properties": {"river_name": "Бистриця Солотвинська", "river_id": 81199, "post_name": "Гута", "form_post_id": "Iв.Франкiвська", "height": 637.72, "lattitude": 48.634002685547, "longitude": 24.209163665771, "corrected_height": 622.72}, "geometry": {"type": "Point", "coordinates": [24.209163665771, 48.634002685547]}}, {"type": "Feature", "properties": {"river_name": "Бистриця Солотвинська", "river_id": 81203, "post_name": "Івано-Франківськ", "form_post_id": "Iв.Франкiвська", "height": 238.29, "lattitude": 48.937114715576, "longitude": 24.704307556152, "corrected_height": 235.29}, "geometry": {"type": "Point", "coordinates": [24.704307556152, 48.937114715576]}}, {"type": "Feature", "properties": {"river_name": "Рибник", "river_id": 81465, "post_name": "Майдан", "form_post_id": "Львiвська", "height": 488.83, "lattitude": 49.165863037109, "longitude": 23.275497436523, "corrected_height": 478.83}, "geometry": {"type": "Point", "coordinates": [23.275497436523, 49.165863037109]}}, {"type": "Feature", "properties": {"river_name": "Завадка", "river_id": 81469, "post_name": "Риків", "form_post_id": "Львiвська", "height": 622.36, "lattitude": 49.039665222168, "longitude": 23.126235961914, "corrected_height": 612.36}, "geometry": {"type": "Point", "coordinates": [23.126235961914, 49.039665222168]}}, {"type": "Feature", "properties": {"river_name": "Бистриця Надвірнянська", "river_id": 81471, "post_name": "Черніїв", "form_post_id": "Iв.Франкiвська", "height": 275.49, "lattitude": 48.848075866699, "longitude": 24.698989868164, "corrected_height": 265.49}, "geometry": {"type": "Point", "coordinates": [24.698989868164, 48.848075866699]}}, {"type": "Feature", "properties": {"river_name": "Прут", "river_id": 42249, "post_name": "Ворохта", "form_post_id": "Iв.Франкiвська", "height": 896.27, "lattitude": 48.201332092285, "longitude": 24.58392906189, "corrected_height": 881.27}, "geometry": {"type": "Point", "coordinates": [24.58392906189, 48.201332092285]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Прут",
+        "river_id": 42136,
+        "post_name": "Татарів",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 622.55,
+        "lattitude": 48.368766784668,
+        "longitude": 24.551666259766,
+        "corrected_height": 622.55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.551666259766,
+          48.368766784668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Прут",
+        "river_id": 42137,
+        "post_name": "Яремче",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 501.33,
+        "lattitude": 48.441356658936,
+        "longitude": 24.545970916748,
+        "corrected_height": 491.33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.545970916748,
+          48.441356658936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Білий Черемош",
+        "river_id": 42194,
+        "post_name": "Яблуниця",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 593.12,
+        "lattitude": 48.015090942383,
+        "longitude": 24.912660598755,
+        "corrected_height": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.912660598755,
+          48.015090942383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Чорний Черемош",
+        "river_id": 42198,
+        "post_name": "Верховина",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 593.35,
+        "lattitude": 48.154273986816,
+        "longitude": 24.850582122803,
+        "corrected_height": 578.35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.850582122803,
+          48.154273986816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Тиса",
+        "river_id": 44006,
+        "post_name": "Рахів",
+        "form_post_id": "Закарпатська",
+        "height": 430.94,
+        "lattitude": 48.05350112915,
+        "longitude": 24.205207824707,
+        "corrected_height": 420.94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.205207824707,
+          48.05350112915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Тиса",
+        "river_id": 44015,
+        "post_name": "Хуст",
+        "form_post_id": "Закарпатська",
+        "height": 155.52,
+        "lattitude": 48.175643920898,
+        "longitude": 23.255926132202,
+        "corrected_height": 151.52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.255926132202,
+          48.175643920898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Тиса",
+        "river_id": 44019,
+        "post_name": "Вилок",
+        "form_post_id": "Закарпатська",
+        "height": 112.39,
+        "lattitude": 48.096782684326,
+        "longitude": 22.83738899231,
+        "corrected_height": 108.39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.83738899231,
+          48.096782684326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Тиса",
+        "river_id": 44023,
+        "post_name": "Чоп",
+        "form_post_id": "Закарпатська",
+        "height": 95.49,
+        "lattitude": 48.415710449219,
+        "longitude": 22.184677124023,
+        "corrected_height": 95.49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.184677124023,
+          48.415710449219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Чорна Тиса",
+        "river_id": 44025,
+        "post_name": "Ясіня",
+        "form_post_id": "Закарпатська",
+        "height": 647.4,
+        "lattitude": 48.272899627686,
+        "longitude": 24.358846664429,
+        "corrected_height": 632.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.358846664429,
+          48.272899627686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Біла Тиса",
+        "river_id": 44028,
+        "post_name": "Луги",
+        "form_post_id": "Закарпатська",
+        "height": 601.81,
+        "lattitude": 48.058490753174,
+        "longitude": 24.414909362793,
+        "corrected_height": 586.81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.414909362793,
+          48.058490753174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Тересва",
+        "river_id": 44034,
+        "post_name": "Усть-Чорна",
+        "form_post_id": "Закарпатська",
+        "height": 523.78,
+        "lattitude": 48.330478668213,
+        "longitude": 23.928215026855,
+        "corrected_height": 508.78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.928215026855,
+          48.330478668213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Тересва",
+        "river_id": 44036,
+        "post_name": "Нересниця",
+        "form_post_id": "Закарпатська",
+        "height": 297.4,
+        "lattitude": 48.114669799805,
+        "longitude": 23.769826889038,
+        "corrected_height": 282.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.769826889038,
+          48.114669799805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Мокрянка",
+        "river_id": 44038,
+        "post_name": "Руська Мокра",
+        "form_post_id": "Закарпатська",
+        "height": 549.27,
+        "lattitude": 48.346111297607,
+        "longitude": 23.906429290771,
+        "corrected_height": 534.27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.906429290771,
+          48.346111297607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Теребля",
+        "river_id": 44046,
+        "post_name": "Колочава",
+        "form_post_id": "Закарпатська",
+        "height": 525.1,
+        "lattitude": 48.405570983887,
+        "longitude": 23.676906585693,
+        "corrected_height": 515.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.676906585693,
+          48.405570983887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Ріка",
+        "river_id": 44051,
+        "post_name": "Міжгір'я",
+        "form_post_id": "Закарпатська",
+        "height": 434.65,
+        "lattitude": 48.539665222168,
+        "longitude": 23.494861602783,
+        "corrected_height": 424.65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.494861602783,
+          48.539665222168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Ріка",
+        "river_id": 44053,
+        "post_name": "Нижній Бистрий",
+        "form_post_id": "Закарпатська",
+        "height": 283.48,
+        "lattitude": 48.35147857666,
+        "longitude": 23.546983718872,
+        "corrected_height": 279.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.546983718872,
+          48.35147857666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Ріка",
+        "river_id": 44054,
+        "post_name": "Хуст",
+        "form_post_id": "Закарпатська",
+        "height": 158.51,
+        "lattitude": 48.18000793457,
+        "longitude": 23.268699645996,
+        "corrected_height": 154.51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.268699645996,
+          48.18000793457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Боржава",
+        "river_id": 44079,
+        "post_name": "Довге",
+        "form_post_id": "Закарпатська",
+        "height": 169.39,
+        "lattitude": 48.366996765137,
+        "longitude": 23.285913467407,
+        "corrected_height": 165.39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.285913467407,
+          48.366996765137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Боржава",
+        "river_id": 44080,
+        "post_name": "Верхні Ремети",
+        "form_post_id": "Закарпатська",
+        "height": 115.45,
+        "lattitude": 48.25910949707,
+        "longitude": 22.873512268066,
+        "corrected_height": 108.45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.873512268066,
+          48.25910949707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Іршава",
+        "river_id": 44083,
+        "post_name": "Іршава",
+        "form_post_id": "Закарпатська",
+        "height": 133.94,
+        "lattitude": 48.312480926514,
+        "longitude": 23.039052963257,
+        "corrected_height": 125.94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.039052963257,
+          48.312480926514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Латориця",
+        "river_id": 44085,
+        "post_name": "Підполоззя",
+        "form_post_id": "Закарпатська",
+        "height": 357.15,
+        "lattitude": 48.743194580078,
+        "longitude": 23.021068572998,
+        "corrected_height": 342.15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.021068572998,
+          48.743194580078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Латориця",
+        "river_id": 44087,
+        "post_name": "Свалява",
+        "form_post_id": "Закарпатська",
+        "height": 189.3,
+        "lattitude": 48.553161621094,
+        "longitude": 22.980176925659,
+        "corrected_height": 180.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.980176925659,
+          48.553161621094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Латориця",
+        "river_id": 44090,
+        "post_name": "Мукачеве",
+        "form_post_id": "Закарпатська",
+        "height": 117.62,
+        "lattitude": 48.448696136475,
+        "longitude": 22.724086761475,
+        "corrected_height": 114.62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.724086761475,
+          48.448696136475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Латориця",
+        "river_id": 44093,
+        "post_name": "Чоп",
+        "form_post_id": "Закарпатська",
+        "height": 98.11,
+        "lattitude": 48.454006195068,
+        "longitude": 22.211442947388,
+        "corrected_height": 98.11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.211442947388,
+          48.454006195068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Стара",
+        "river_id": 44100,
+        "post_name": "Зняцьово",
+        "form_post_id": "Закарпатська",
+        "height": 105.94,
+        "lattitude": 48.491374969482,
+        "longitude": 22.517751693726,
+        "corrected_height": 105.94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.517751693726,
+          48.491374969482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Уж (Закарпатський)",
+        "river_id": 44108,
+        "post_name": "Жорнава",
+        "form_post_id": "Закарпатська",
+        "height": 328.3,
+        "lattitude": 48.989475250244,
+        "longitude": 22.629404067993,
+        "corrected_height": 318.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.629404067993,
+          48.989475250244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Уж (Закарпатський)",
+        "river_id": 44110,
+        "post_name": "В.Березний",
+        "form_post_id": "Закарпатська",
+        "height": 198.19,
+        "lattitude": 48.890933990479,
+        "longitude": 22.461170196533,
+        "corrected_height": 188.19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.461170196533,
+          48.890933990479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Уж (Закарпатський)",
+        "river_id": 44113,
+        "post_name": "Зарічово",
+        "form_post_id": "Закарпатська",
+        "height": 154.89,
+        "lattitude": 48.77042388916,
+        "longitude": 22.499231338501,
+        "corrected_height": 150.89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.499231338501,
+          48.77042388916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Уж (Закарпатський)",
+        "river_id": 44116,
+        "post_name": "Ужгород",
+        "form_post_id": "Закарпатська",
+        "height": 110.48,
+        "lattitude": 48.622001647949,
+        "longitude": 22.298322677612,
+        "corrected_height": 110.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.298322677612,
+          48.622001647949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Лютянка",
+        "river_id": 44120,
+        "post_name": "Чорноголова",
+        "form_post_id": "Закарпатська",
+        "height": 255.01,
+        "lattitude": 48.858741760254,
+        "longitude": 22.605291366577,
+        "corrected_height": 245.01
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.605291366577,
+          48.858741760254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Тур'я",
+        "river_id": 44121,
+        "post_name": "Тур'я Поляна",
+        "form_post_id": "Закарпатська",
+        "height": 279.59,
+        "lattitude": 48.698692321777,
+        "longitude": 22.799547195435,
+        "corrected_height": 264.59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.799547195435,
+          48.698692321777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Тур'я",
+        "river_id": 44124,
+        "post_name": "Сімер",
+        "form_post_id": "Закарпатська",
+        "height": 151.16,
+        "lattitude": 48.73413848877,
+        "longitude": 22.514717102051,
+        "corrected_height": 147.16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.514717102051,
+          48.73413848877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Західний  Буг",
+        "river_id": 79723,
+        "post_name": "Сасів",
+        "form_post_id": "Львiвська",
+        "height": 261.09,
+        "lattitude": 49.878479003906,
+        "longitude": 24.945743560791,
+        "corrected_height": 254.08999999999997
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.945743560791,
+          49.878479003906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Полтва",
+        "river_id": 79747,
+        "post_name": "Буськ",
+        "form_post_id": "Львiвська",
+        "height": 209.99,
+        "lattitude": 49.964721679688,
+        "longitude": 24.607500076294,
+        "corrected_height": 209.99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.607500076294,
+          49.964721679688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Дністер",
+        "river_id": 81015,
+        "post_name": "Стрілки",
+        "form_post_id": "Львiвська",
+        "height": 406.03,
+        "lattitude": 49.32873916626,
+        "longitude": 22.978202819824,
+        "corrected_height": 406.03
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.978202819824,
+          49.32873916626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Дністер",
+        "river_id": 81017,
+        "post_name": "Самбір",
+        "form_post_id": "Львiвська",
+        "height": 285.94,
+        "lattitude": 49.505867004395,
+        "longitude": 23.221120834351,
+        "corrected_height": 281.94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.221120834351,
+          49.505867004395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Дністер",
+        "river_id": 81028,
+        "post_name": "Роздол",
+        "form_post_id": "Львiвська",
+        "height": 244.48,
+        "lattitude": 49.438682556152,
+        "longitude": 24.069944381714,
+        "corrected_height": 244.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.069944381714,
+          49.438682556152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Дністер",
+        "river_id": 81030,
+        "post_name": "Журавне",
+        "form_post_id": "Львiвська",
+        "height": 234.98,
+        "lattitude": 49.258693695068,
+        "longitude": 24.292366027832,
+        "corrected_height": 234.98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.292366027832,
+          49.258693695068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Дністер",
+        "river_id": 81033,
+        "post_name": "Галич",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 212.54,
+        "lattitude": 49.126277923584,
+        "longitude": 24.73020362854,
+        "corrected_height": 212.54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73020362854,
+          49.126277923584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Стрв'яж",
+        "river_id": 81078,
+        "post_name": "Хирів",
+        "form_post_id": "Львiвська",
+        "height": 347.15,
+        "lattitude": 49.523826599121,
+        "longitude": 22.811220169067,
+        "corrected_height": 337.15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.811220169067,
+          49.523826599121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Стрв'яж",
+        "river_id": 81080,
+        "post_name": "Луки",
+        "form_post_id": "Львiвська",
+        "height": 265.93,
+        "lattitude": 49.611694335938,
+        "longitude": 23.389938354492,
+        "corrected_height": 261.93
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.389938354492,
+          49.611694335938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Верещиця",
+        "river_id": 81085,
+        "post_name": "Комарно",
+        "form_post_id": "Львiвська",
+        "height": 258.72,
+        "lattitude": 49.622978210449,
+        "longitude": 23.710275650024,
+        "corrected_height": 254.72000000000003
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.710275650024,
+          49.622978210449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Бистриця",
+        "river_id": 81087,
+        "post_name": "Озимина",
+        "form_post_id": "Львiвська",
+        "height": 276.62,
+        "lattitude": 49.464298248291,
+        "longitude": 23.38952255249,
+        "corrected_height": 276.62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.38952255249,
+          49.464298248291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Тисмениця",
+        "river_id": 81092,
+        "post_name": "Дрогобич",
+        "form_post_id": "Львiвська",
+        "height": 269.42,
+        "lattitude": 49.362331390381,
+        "longitude": 23.574787139893,
+        "corrected_height": 267.42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.574787139893,
+          49.362331390381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Щирець",
+        "river_id": 81097,
+        "post_name": "Щирець",
+        "form_post_id": "Львiвська",
+        "height": 260.15,
+        "lattitude": 49.645908355713,
+        "longitude": 23.860555648804,
+        "corrected_height": 260.15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.860555648804,
+          49.645908355713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Стрий",
+        "river_id": 81102,
+        "post_name": "Матків",
+        "form_post_id": "Львiвська",
+        "height": 657.87,
+        "lattitude": 48.912540435791,
+        "longitude": 23.127935409546,
+        "corrected_height": 647.87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.127935409546,
+          48.912540435791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Стрий",
+        "river_id": 81103,
+        "post_name": "Завадівка",
+        "form_post_id": "Львiвська",
+        "height": 551.42,
+        "lattitude": 49.142124176025,
+        "longitude": 23.065517425537,
+        "corrected_height": 551.42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.065517425537,
+          49.142124176025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Стрий",
+        "river_id": 81108,
+        "post_name": "В.Синьовидне",
+        "form_post_id": "Львiвська",
+        "height": 370.57,
+        "lattitude": 49.107921600342,
+        "longitude": 23.606647491455,
+        "corrected_height": 364.57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.606647491455,
+          49.107921600342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Стрий",
+        "river_id": 81109,
+        "post_name": "Стрий",
+        "form_post_id": "Львiвська",
+        "height": 293.05,
+        "lattitude": 49.24193572998,
+        "longitude": 23.856149673462,
+        "corrected_height": 289.05
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.856149673462,
+          49.24193572998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Яблунька",
+        "river_id": 81113,
+        "post_name": "Турка",
+        "form_post_id": "Львiвська",
+        "height": 550.11,
+        "lattitude": 49.155254364014,
+        "longitude": 23.042497634888,
+        "corrected_height": 540.11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.042497634888,
+          49.155254364014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Опір",
+        "river_id": 81120,
+        "post_name": "Сколе",
+        "form_post_id": "Львiвська",
+        "height": 444.81,
+        "lattitude": 49.016956329346,
+        "longitude": 23.476940155029,
+        "corrected_height": 444.81
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.476940155029,
+          49.016956329346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Славська",
+        "river_id": 81122,
+        "post_name": "Славське",
+        "form_post_id": "Львiвська",
+        "height": 593.51,
+        "lattitude": 48.835243225098,
+        "longitude": 23.447086334229,
+        "corrected_height": 578.51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.447086334229,
+          48.835243225098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Орава",
+        "river_id": 81129,
+        "post_name": "Святослав",
+        "form_post_id": "Львiвська",
+        "height": 476.48,
+        "lattitude": 49.005004882812,
+        "longitude": 23.453330993652,
+        "corrected_height": 461.48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.453330993652,
+          49.005004882812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Свіча",
+        "river_id": 81147,
+        "post_name": "Зарічне",
+        "form_post_id": "Львiвська",
+        "height": 279.1,
+        "lattitude": 49.17094039917,
+        "longitude": 24.086601257324,
+        "corrected_height": 274.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.086601257324,
+          49.17094039917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Лужанка",
+        "river_id": 81151,
+        "post_name": "Гошів",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 375.89,
+        "lattitude": 49.028240203857,
+        "longitude": 23.884296417236,
+        "corrected_height": 360.89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.884296417236,
+          49.028240203857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Сукіль",
+        "river_id": 81152,
+        "post_name": "Тисів",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 421.69,
+        "lattitude": 49.051887512207,
+        "longitude": 23.767610549927,
+        "corrected_height": 406.69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.767610549927,
+          49.051887512207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Свіж",
+        "river_id": 81156,
+        "post_name": "Букачівці",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 226.87,
+        "lattitude": 49.249866485596,
+        "longitude": 24.495204925537,
+        "corrected_height": 226.87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.495204925537,
+          49.249866485596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Лімниця",
+        "river_id": 81161,
+        "post_name": "Осмолода",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 712.82,
+        "lattitude": 48.644260406494,
+        "longitude": 24.018451690674,
+        "corrected_height": 697.82
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.018451690674,
+          48.644260406494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Лімниця",
+        "river_id": 81169,
+        "post_name": "Перевозець",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 239.27,
+        "lattitude": 49.078639984131,
+        "longitude": 24.552389144897,
+        "corrected_height": 234.27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.552389144897,
+          49.078639984131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Чечва",
+        "river_id": 81172,
+        "post_name": "Спас",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 421.57,
+        "lattitude": 48.882221221924,
+        "longitude": 24.067249298096,
+        "corrected_height": 406.57
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.067249298096,
+          48.882221221924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Гнила Липа",
+        "river_id": 81184,
+        "post_name": "Більшівці",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 217.3,
+        "lattitude": 49.181243896484,
+        "longitude": 24.73543548584,
+        "corrected_height": 217.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.73543548584,
+          49.181243896484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Бистриця Надвірнянська",
+        "river_id": 81191,
+        "post_name": "Пасічна",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 532.88,
+        "lattitude": 48.571624755859,
+        "longitude": 24.410152435303,
+        "corrected_height": 522.88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.410152435303,
+          48.571624755859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Ворона",
+        "river_id": 81197,
+        "post_name": "Тисмениця",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 240.77,
+        "lattitude": 48.901515960693,
+        "longitude": 24.851873397827,
+        "corrected_height": 240.77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.851873397827,
+          48.901515960693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Бистриця Солотвинська",
+        "river_id": 81199,
+        "post_name": "Гута",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 637.72,
+        "lattitude": 48.634002685547,
+        "longitude": 24.209163665771,
+        "corrected_height": 622.72
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.209163665771,
+          48.634002685547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Бистриця Солотвинська",
+        "river_id": 81203,
+        "post_name": "Івано-Франківськ",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 238.29,
+        "lattitude": 48.937114715576,
+        "longitude": 24.704307556152,
+        "corrected_height": 235.29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.704307556152,
+          48.937114715576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Рибник",
+        "river_id": 81465,
+        "post_name": "Майдан",
+        "form_post_id": "Львiвська",
+        "height": 488.83,
+        "lattitude": 49.165863037109,
+        "longitude": 23.275497436523,
+        "corrected_height": 478.83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.275497436523,
+          49.165863037109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Завадка",
+        "river_id": 81469,
+        "post_name": "Риків",
+        "form_post_id": "Львiвська",
+        "height": 622.36,
+        "lattitude": 49.039665222168,
+        "longitude": 23.126235961914,
+        "corrected_height": 612.36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.126235961914,
+          49.039665222168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Бистриця Надвірнянська",
+        "river_id": 81471,
+        "post_name": "Черніїв",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 275.49,
+        "lattitude": 48.848075866699,
+        "longitude": 24.698989868164,
+        "corrected_height": 265.49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.698989868164,
+          48.848075866699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river_name": "Прут",
+        "river_id": 42249,
+        "post_name": "Ворохта",
+        "form_post_id": "Iв.Франкiвська",
+        "height": 896.27,
+        "lattitude": 48.201332092285,
+        "longitude": 24.58392906189,
+        "corrected_height": 881.27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.58392906189,
+          48.201332092285
+        ]
+      }
+    }
+  ]
+}
